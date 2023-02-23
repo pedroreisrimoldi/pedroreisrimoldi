@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apipedroreisrimoldisanuraghazra)(https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apipedroreisrimoldianuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **pedroreisrimoldi/pedroreisrimoldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
