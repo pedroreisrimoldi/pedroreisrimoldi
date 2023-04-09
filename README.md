@@ -3,7 +3,9 @@
 Olá, meu nome é Pedro Reis Rimoldi, sou de Belo Horizonte - MG, atualmente estou estudando Desenvolvimento Web na escola de programação Trybe.
 
 
-Entre em contato comigo pelo email:  pedroreisrimoldi@gmail.com
+Entre em contato comigo:
+Email:  pedroreisrimoldi@gmail.com
+Linkedin: https://www.linkedin.com/in/pedroreisrimoldi/
 
 
 
